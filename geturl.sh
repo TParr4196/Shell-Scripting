@@ -1,1 +1,1 @@
-curl $1 --output $2
+curl $1 -s --output $2

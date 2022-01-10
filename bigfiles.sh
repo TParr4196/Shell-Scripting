@@ -1,0 +1,1 @@
+ls -Sr /usr/bin | head -n 7
